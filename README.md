@@ -1,1 +1,1 @@
-# EEE598_proj_tuh_eeg
+# EEE598_proj_tusz_seizure_prediction
